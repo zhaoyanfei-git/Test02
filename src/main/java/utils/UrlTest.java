@@ -1,7 +1,7 @@
 package utils;
 
 public class UrlTest {
-    public static String url_test = "http://localhost:8080/CRUD";
+    public static String url_test = "http://localhost:8888/CRUD";
     public static String insert_url = "/insert";
     public static String update_url = "/update";
     public static String delete_byid_url = "/delete";
